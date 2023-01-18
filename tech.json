@@ -1,0 +1,56 @@
+[
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 20,
+        "image": "/images/tech/CD.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 30,
+        "image": "/images/tech/Circuit.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 40,
+        "image": "/images/tech/Cloud Services.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 50,
+        "image": "/images/tech/Robot.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 60,
+        "image": "/images/tech/Input Component.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 70,
+        "image": "/images/tech/Motherboard.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 80,
+        "image": "/images/tech/Phone.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 90,
+        "image": "/images/tech/Processor.png"
+    },
+    {
+        "brand": "TECH0_1",
+        "model": "regular",
+        "price": 100,
+        "image": "/images/tech/Jetpack.png"
+    }
+]
